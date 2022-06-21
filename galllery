@@ -2,8 +2,8 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>國棟的自傳</title>
-        <link rel="stylesheet" href="style.css">
+        <title>自傳</title>
+        <link rel="stylesheet" href="aboutmestyle.css">
         
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -30,30 +30,11 @@
                     <div class="collapse navbar-collapse" id="menuicon">
                     <ul class="nav navbar-nav navbar-right">
                     <li><a href="index.html">首頁</a></li> 
-                    <li><a href="aboutmeindex.html">國棟的自傳</a></li>
-                    <li><a href="taiwan.html">台灣之旅</a></li>
-                    <li><a href="gallery.html">攝影作品</a></li>
+                    <li><a href="#">國棟的自傳</a></li>
+                    <li><a href="#">高中生活</a></li>
+                    <li><a href="#">台灣之旅</a></li>
+                    <li><a href="#">街拍作品</a></li>
                     </ul>
                     </div>
             </div>
         </nav>
-        
-        
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-6">
-                <h1>我的故事-</h1>
-                <h2 class="big-text">熒幕前的你來探索。</h2>
-                <p>目前已生長在這塊土地二十一年。</p>
-                <a class="btn btn-first" href="https://www.youtube.com/channel/UCiswiqhLVmJU9XEanI6pl1A">Youtube頻道</a>
-                <a class="btn btn-second" href="https://www.instagram.com/dongguo219/">Instagram</a>
-                </div>
-            
-                <div class="banner-img"></div>
-
-            </div>
-        </div>
-        </header>
-    </body>
-</html>
-        
