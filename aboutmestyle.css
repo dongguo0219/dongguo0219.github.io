@@ -6,7 +6,7 @@
     height:100vh  
 }
 .navbar-style{
-    box-shadow:0 5px 10px #1d86e1;
+    box-shadow:0 5px 10px #000;
     background-color:#124fa4;
 }
 .logo{
@@ -21,17 +21,11 @@ li a{
     color:white;
     font-weight:bold;
 }
-.banner-img{
-    background-image:url(watercolor.png);
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
-    -webkit-background-size:cover;
+body {
+  background-image: url("watercolor.jpg");
+  background-repeat: no-repeat;
+  background-position: absolute;
+  background-attachment: fixed;
     background-size:cover;
-    z-index:-1;
 }
-
-
 

@@ -6,7 +6,7 @@
     height:100vh  
 }
 .navbar-style{
-    box-shadow:0 5px 10px #1d86e1;
+    box-shadow:0 5px 10px #fdde37;
     background-color:#124fa4;
 }
 .logo{
@@ -48,4 +48,10 @@ li a{
     filter:grayscale(0);
     transform:scale(1.5);
 }
-
+body {
+  background-image: url("taiwanbg.png");
+  background-repeat: no-repeat;
+  background-position: absolute;
+  background-attachment: fixed;
+    background-size:cover;
+}

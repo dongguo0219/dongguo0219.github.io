@@ -48,4 +48,10 @@ li a{
     filter:grayscale(0);
     transform:scale(1.1);
 }
-
+body {
+  background-image: url("gallerybg.png");
+  background-repeat: no-repeat;
+  background-position: absolute;
+  background-attachment: fixed;
+    background-size:cover;
+}
